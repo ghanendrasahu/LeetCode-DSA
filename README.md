@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ghanendrasahu/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ghanendrasahu/LeetCode-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ghanendrasahu/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ghanendrasahu/LeetCode-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ghanendrasahu/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Linked List
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ghanendrasahu/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ghanendrasahu/LeetCode-DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
